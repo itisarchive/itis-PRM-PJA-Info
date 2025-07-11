@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description"><b>Polsko-Japońska Akademia Technik Komputerowych</b> powstała w 1994 roku (do 2014 roku nosiła nazwę Polsko-Japońska Wyższa Szkoła Technik Komputerowych). Od samego początku funkcjonowania zwracała uwagę na wysoką jakość kształcenia specjalistów potrafiących pracować w ważnych dla rozwoju Polski obszarach zastosowań technik komputerowych. W październiku 2019 roku rozpoczną się obchody jubileuszu 25-lecia powstania uczelni.</string>
+    <string name="open">Godziny pracy dziekanatu:</string>
+    <string-array name="days">
+        <item>Poniedziałek 8.00–15.00</item>
+        <item>Wtorek 8.00–15.00</item>
+        <item>Środa 8.00–15.00</item>
+        <item>Czwartek 12.00–18.00</item>
+        <item>Piątek 8.00–15.00</item>
+        <item>Sobota 9.00–13.00</item>
+        <item>Niedziela Nieczynne</item>
+    </string-array>
+</resources>

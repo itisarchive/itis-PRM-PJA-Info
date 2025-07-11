@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">PJA Info</string>
+    <string name="description"><b>Polish-Japanese Academy of Information Technology (PJAIT)</b> was founded in 1994. Since the beginning, it concentrated on high quality education of specialists who could work in the field of computer techniques’ usage which was important for the development of Poland. A celebration of PJAIT’s 25th anniversary will begin in October 2019.</string>
+    <string name="open">Dean\'s office opening hours:</string>
+    <string-array name="days">
+        <item>Mon 8.00–15.00</item>
+        <item>Tue 8.00–15.00</item>
+        <item>Wed 8.00–15.00</item>
+        <item>Thu 12.00–18.00</item>
+        <item>Fri 8.00–15.00</item>
+        <item>Sat 9.00–13.00</item>
+        <item>Sun Closed</item>
+    </string-array>
+</resources>
